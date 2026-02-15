@@ -1,20 +1,31 @@
+<h1 align="center">Hi 👋, I'm Didarul Alam Swapnil</h1>
+<h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast | React Learner</h3>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently building full-stack web development projects  
 👯 I’m open to collaborating on JavaScript & React projects  
-🤝 I’m looking to grow in backend architecture and clean code practices  
+🤝 Currently improving backend architecture and writing cleaner, scalable code  
 🌱 I’m currently learning advanced JavaScript and React  
 💬 Ask me about JavaScript, DOM manipulation, and web fundamentals  
 ⚡ Fun fact: I enjoy solving logical problems and building user-friendly interfaces  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didarul-alam-swapnil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lynxswapnil@gmail.com)
+## 🌐 Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/didarul-alam-swapnil" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lynxswapnil@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +55,25 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔹 **Portfolio Website** – Built with HTML, CSS & JavaScript  
+🔹 **Full-Stack Blog App** – Node.js, Express & MySQL  
+🔹 **React UI Project** – Modern responsive interface using React  
+
+(Replace these with your actual repository links)
+
+---
+
 ## 📊 GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=Lynx-Swapnil&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lynx-Swapnil&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynx-Swapnil&theme=radical" height="150"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Lynx-Swapnil&icon=0&color=0" />
+</p>
