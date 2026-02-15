@@ -60,20 +60,4 @@
 🔹 **Portfolio Website** – Built with HTML, CSS & JavaScript  
 🔹 **Full-Stack Blog App** – Node.js, Express & MySQL  
 🔹 **React UI Project** – Modern responsive interface using React  
-
-(Replace these with your actual repository links)
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lynx-Swapnil&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynx-Swapnil&theme=radical" height="150"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Lynx-Swapnil&icon=0&color=0" />
-</p>
