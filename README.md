@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Didarul Alam Swapnil</h1>
-<h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast | React Learner</h3>
+<h3 align="center">Frontend Developer | Software Engineer | JavaScript, React, Next.js, Node.js | Building Fast & Clean Web Apps</h3>
 
 ---
 
