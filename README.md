@@ -33,6 +33,7 @@ Building scalable, high-performance, and user-friendly web applications.
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-111111?style=for-the-badge&logo=heroui&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
