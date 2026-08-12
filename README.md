@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Didarul Alam Swapnil 👋</h1>
 
 <p align="center">
-Junior Full-Stack Developer from Bangladesh<br/>
+Full-Stack Developer from Bangladesh<br/>
 Building scalable, high-performance, and user-friendly web applications.
 </p>
 
